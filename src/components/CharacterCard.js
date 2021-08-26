@@ -20,7 +20,7 @@ const CharacterCard = props => {
     }
     return (
         <div className="charCard" style={style} onClick={props.handleClick} >
-            <img src={props.data.url} alt="Char" style={style.img}/>
+            <img src={props.data.source} alt="Char" style={style.img}/>
             <p>{props.data.charName}</p>
             {/* <p style={{display: "none"}}>{props.data.selected}</p> */}
         </div>
