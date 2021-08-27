@@ -8,9 +8,8 @@ const Main = () => {
   const [highScore, setHighScore] = useState(0);
   const [charData, setCharData] = useState(characters);
 
-  const checkDuplicate = () => {
-    if (charData.some((char) => char.selected > 1)) {
-      console.log("Selected Twice");
+  const checkDuplicate = (arr) => {
+    if (arr.some((char) => char.selected > 1)) {
       setCurrentScore(0);
       setCharData(characters);
     }
@@ -25,7 +24,7 @@ const Main = () => {
     });
     setCharData(shuffle(updatedCharData));
     setCurrentScore(currentScore + 1);
-    checkDuplicate();
+    checkDuplicate(updatedCharData);
   };
 
   useEffect(() => {
