@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.60692b53.chunk.css",
+    "main.js": "/memory-card/static/js/main.0308ccf9.chunk.js",
+    "main.js.map": "/memory-card/static/js/main.0308ccf9.chunk.js.map",
+    "runtime-main.js": "/memory-card/static/js/runtime-main.111e0d94.js",
+    "runtime-main.js.map": "/memory-card/static/js/runtime-main.111e0d94.js.map",
+    "static/js/2.1f3e1490.chunk.js": "/memory-card/static/js/2.1f3e1490.chunk.js",
+    "static/js/2.1f3e1490.chunk.js.map": "/memory-card/static/js/2.1f3e1490.chunk.js.map",
+    "index.html": "/memory-card/index.html",
+    "static/css/main.60692b53.chunk.css.map": "/memory-card/static/css/main.60692b53.chunk.css.map",
+    "static/js/2.1f3e1490.chunk.js.LICENSE.txt": "/memory-card/static/js/2.1f3e1490.chunk.js.LICENSE.txt",
+    "static/media/Alexi_Shostakov.13a9326d.jpg": "/memory-card/static/media/Alexi_Shostakov.13a9326d.jpg",
+    "static/media/Alexis_Kaye.94015dc0.jpg": "/memory-card/static/media/Alexis_Kaye.94015dc0.jpg",
+    "static/media/Anthony_Masters.c09c4957.jpg": "/memory-card/static/media/Anthony_Masters.c09c4957.jpg",
+    "static/media/Batman.45a16d55.jpg": "/memory-card/static/media/Batman.45a16d55.jpg",
+    "static/media/Johann_Shmidt.960d1891.jpg": "/memory-card/static/media/Johann_Shmidt.960d1891.jpg",
+    "static/media/Joker.6c46fa10.jpg": "/memory-card/static/media/Joker.6c46fa10.jpg",
+    "static/media/Loki_Laufeyson.7af1341f.jpg": "/memory-card/static/media/Loki_Laufeyson.7af1341f.jpg",
+    "static/media/Norman_Osborn.9c346096.jpg": "/memory-card/static/media/Norman_Osborn.9c346096.jpg",
+    "static/media/Raven.a7e9fe0a.jpg": "/memory-card/static/media/Raven.a7e9fe0a.jpg",
+    "static/media/Thanos.09443949.jpg": "/memory-card/static/media/Thanos.09443949.jpg",
+    "static/media/Wanda_Maximoff.f031bc2b.jpg": "/memory-card/static/media/Wanda_Maximoff.f031bc2b.jpg",
+    "static/media/Yelena_Belova.75120fd3.jpg": "/memory-card/static/media/Yelena_Belova.75120fd3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.111e0d94.js",
+    "static/js/2.1f3e1490.chunk.js",
+    "static/css/main.60692b53.chunk.css",
+    "static/js/main.0308ccf9.chunk.js"
+  ]
+}
